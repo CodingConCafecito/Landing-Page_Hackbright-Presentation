@@ -67,7 +67,7 @@ pre {
 .list-div {
   color: #e19b52;
   margin: 30px 0 30px 50px;
-  font-size: 25px;
+  font-size: 22px;
 }
 
 .list-categories ul {
@@ -78,10 +78,6 @@ pre {
 
 .sublists {
   list-style: square;
-}
-
-.list-div {
-  font-size: 22px;
 }
 
 .challenges-list {
