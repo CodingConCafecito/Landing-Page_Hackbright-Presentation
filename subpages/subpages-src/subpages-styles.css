@@ -15,7 +15,14 @@ p {
   color: #4587ac;
 }
 
-footer {
+pre {
+  width: 890px;
+  height: 150px;
+  font-size: 20px;
+  line-height: 31px;
+}
+
+/* footer {
   margin: 30px 0 30px 50px;
   font-size: 25px;
 }
@@ -28,13 +35,6 @@ footer a {
 footer a:hover {
   color: #4587ac;
   transition: all 400ms ease;
-}
-
-pre {
-  width: 890px;
-  height: 150px;
-  font-size: 20px;
-  line-height: 31px;
 }
 
 .agenda {
@@ -62,7 +62,7 @@ pre {
 .agenda a:hover {
   color: #e19b52;
   transition: all 400ms ease;
-}
+} */
 
 .list-div {
   color: #e19b52;
